@@ -1,4 +1,5 @@
 <?php 
+    //Trabalhando com strings
     $minhaString = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda recusandae, reprehenderit sint tenetur, rerum asperiores perferendis reiciendis animi maiores, vitae omnis tempore quidem expedita iure! Dignissimos quia numquam veniam sint?";
     
     //Recortando uma string
