@@ -25,9 +25,6 @@
         //Array em PHP
         $array = [6, "3", 2.3, 3e2];
         var_dump($array);
-
-        
-
     ?>
 
 </body>
